@@ -1,6 +1,6 @@
 # react-contribution-graph
 
-![Contribution graph](https://raw.githubusercontent.com/Simuratli/react-contrubution-graph/main/docs/screenshot.png)
+![Contribution graph](https://raw.githubusercontent.com/Simuratli/react-contrubution-graph/master/docs/screenshot.png)
 
 A lightweight, dependency-free React component that renders a GitHub-style contribution graph.
 
